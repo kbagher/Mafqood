@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AE</key>
+	<string>الامارات</string>
+	<key>BH</key>
+	<string>البحرين</string>
+	<key>DZ</key>
+	<string>الجزائر</string>
+	<key>EG</key>
+	<string>مصر</string>
+	<key>IQ</key>
+	<string>العراق</string>
+	<key>JO</key>
+	<string>الاردن</string>
+	<key>KW</key>
+	<string>الكويت</string>
+	<key>LB</key>
+	<string>لبنان</string>
+	<key>LY</key>
+	<string>ليبيا</string>
+	<key>MA</key>
+	<string>المغرب</string>
+	<key>OM</key>
+	<string>عمان</string>
+	<key>QA</key>
+	<string>قطر</string>
+	<key>SA</key>
+	<string>المملكة العربية السعودية</string>
+	<key>SD</key>
+	<string>السودان</string>
+	<key>SY</key>
+	<string>سوريا</string>
+	<key>TN</key>
+	<string>تونس</string>
+	<key>US</key>
+	<string>امريكا</string>
+	<key>YE</key>
+	<string>اليمن</string>
+</dict>
+</plist>

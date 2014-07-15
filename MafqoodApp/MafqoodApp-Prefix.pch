@@ -1,0 +1,22 @@
+//
+// Prefix header for all source files of the 'MafqoodApp' target in the 'MafqoodApp' project
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_4_0
+#warning "This project uses features only available in iOS SDK 4.0 and later."
+#endif
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+    #import <Parse/Parse.h>
+    #import "OpenUDID.h"
+    #import "Flurry.h"
+#endif
+
+#define APP_URL "https://itunes.apple.com/us/app/mfqwd/id645701509?mt=8"
+
+#define PageSize 20
+//#define IS_LIVE_VERSION YES
