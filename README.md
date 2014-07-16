@@ -37,7 +37,7 @@ This app is using Parse.com as its backend, used classes are listed below:
     - **user (pointer)**: points to the user who reported
 
 ## Admin Features
-If the user field is set to be admin he will have several privileges such as:
+If the user's admin field is set to "true", he will have several privileges such as:
 - **Post Features**: when in the post details, tap on options button and you will have the ability to do the following:
   1. Block the post
   2. Delete the post
