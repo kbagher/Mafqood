@@ -6,6 +6,9 @@ AppStore Link: https://itunes.apple.com/us/app/mfqwd/id645701509?mt=8
 
 ![Mafqood App](http://a2.mzstatic.com/us/r30/Purple/v4/92/b0/7f/92b07f8c-2bd0-16d6-7f88-36a535ad0f66/screen568x568.jpeg)
 
+
+> _**Please note that the coding and the approach in this project is not professional nor the best way to do it. It was developed within 5 days so you will expect some newbie code :)**_
+
 ## Backend
 This app is using Parse.com as its backend, used classes are listed below:
 - **User**: contains user information
